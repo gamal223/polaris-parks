@@ -6623,3 +6623,36 @@ Newsletter Style
     justify-content: center;
     margin: 20px;
 }
+.hh-1{padding: 80px 0 10px !important;}
+.sc-img{transition: .5s;cursor: pointer;}
+.sc-img:hover{transform: scale(1.2);}
+.customers .owl-carousel img{opacity: .5;transition: .5s;cursor: pointer;width: 150px;height: 150px;}
+.customers .owl-carousel img:hover{opacity: 1;}
+.customers .owl-carousel .owl-nav{position: relative;top:20%;right: 0;width: 100%;}
+.customers .owl-carousel .owl-nav .owl-next span,.customers .owl-carousel .owl-nav .owl-prev span{
+width: 50px;height: 50px;font-size: 50px;position: absolute;color: #1B417D;
+}
+.customers .owl-carousel .owl-nav .owl-next span{right: 0;top: -100px;}
+.customers .owl-carousel .owl-nav .owl-prev span{left: -50px;top: -100px;}
+.customers .owl-carousel .owl-dots .owl-dot{background-color: #1B417D;color: #1B417D;border: 2px solid #fff;}
+.sss{display: flex;justify-content: center;margin: 20px;}
+
+.w-60{
+    width: 60% !important;
+}
+.simple-collaps{transition: .5s !important;}
+.simple-collaps:hover{background-color: #1B417D !important;color: #fff !important;}
+.simple-collaps:hover span{color: #fff !important;}
+.for-p{padding: 20px 0 !important;}
+.photo-overlay::before{background:#1b417db6 !important ;}
+.photo-overlay a.quick-view, .photo-overlay a.photo-view{left: 57% !important;}
+.gallery-one{width: 385px !important;height: 255px !important;}
+.gallery-one img{width: 100% !important;height: 100% !important;}
+
+.bg-primary {
+    background-color: var(--theme-primary-color) !important
+}
+
+.ff-tajawal{font-family: 'Tajawal', sans-serif !important;font-size: 30px !important;}
+.ff-harmattan{font-family: 'Harmattan', sans-serif !important;font-size: 22px !important;}
+.ff-harmattan2{font-family: 'Harmattan', sans-serif !important;font-size: 18px !important;}
