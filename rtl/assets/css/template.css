@@ -757,10 +757,10 @@ a.text-dark:focus {
     border: 2px solid;
     border-color: var(--theme-primary-color)
 }
-
+.p-rr{position: relative;}
 .box-tab-line {
     position: absolute;
-    top: -13px;
+    top:-13px;
     z-index: 10;
 }
 
