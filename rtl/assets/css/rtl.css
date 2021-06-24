@@ -320,7 +320,9 @@ Header CSS Start
     left: inherit;
     right: -60px;
 }
-
+@media(max-width:767px){
+    .tagline-2::before {display: none;}
+}
 .testimonial-item .name,
 .testimonial-slider .testimonial-item {
     padding-left: 0;

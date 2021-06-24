@@ -6672,3 +6672,21 @@ width: 50px;height: 50px;font-size: 50px;position: absolute;color: #1B417D;
 
 { color:#fff !important}
 .thumb-angle-left .box-70px{margin: 0 auto;}
+@media(max-width:767px){
+    .ff-tajawal{font-size: 25px !important;}
+    .w-60{
+        width: 80% !important;}
+
+        .sss {
+            --bs-gutter-x: 1.5rem;
+            --bs-gutter-y: 0;
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: calc(var(--bs-gutter-y) * -1);
+            margin-right: calc(var(--bs-gutter-x)/ -1.5) !important;
+            margin-left: calc(var(--bs-gutter-x)/ -2);
+        }
+
+}
+
+

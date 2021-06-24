@@ -6629,6 +6629,8 @@ width: 50px;height: 50px;font-size: 50px;position: absolute;color: #1B417D;
 .w-60{
     width: 60% !important;
 }
+
+
 .simple-collaps{transition: .5s !important;}
 .simple-collaps:hover{background-color: #1B417D !important;color: #fff !important;}
 .simple-collaps:hover span{color: #fff !important;}
@@ -6640,3 +6642,11 @@ width: 50px;height: 50px;font-size: 50px;position: absolute;color: #1B417D;
 .img-lang{width: 18px;}
 .img-lang2{width: 15px;}
 .ff-messiri{font-family: 'El Messiri', sans-serif !important;}
+.thumb-angle-left .box-70px{margin: 0 auto;}
+
+@media (max-width:767px){
+    .w-60{
+        width: 80% !important;
+    }
+   
+}

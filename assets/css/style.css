@@ -1951,3 +1951,13 @@ div .egyptLearn{
     margin-left: 45%;
     margin-top: 25px;
 }
+
+@media (max-width:767px){
+    .full-row {
+        padding: 20px 0 !important;
+    }
+    .fs-small{font-size: 30px;}
+   h2{font-size: 28px !important;}
+   h3{font-size: 25px !important;}
+   .btn{padding: 0 15px !important;}
+}

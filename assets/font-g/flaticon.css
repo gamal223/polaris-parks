@@ -1,10 +1,10 @@
 @font-face {
     font-family: "flaticon";
-    src: url("./flaticon.ttf?167d6477049fa961b8131bb818448103") format("truetype"),
-url("./flaticon.woff?167d6477049fa961b8131bb818448103") format("woff"),
-url("./flaticon.woff2?167d6477049fa961b8131bb818448103") format("woff2"),
-url("./flaticon.eot?167d6477049fa961b8131bb818448103#iefix") format("embedded-opentype"),
-url("./flaticon.svg?167d6477049fa961b8131bb818448103#flaticon") format("svg");
+    src: url("./flaticon.ttf?22a33baf39fd86a740455f6de1be7694") format("truetype"),
+url("./flaticon.woff?22a33baf39fd86a740455f6de1be7694") format("woff"),
+url("./flaticon.woff2?22a33baf39fd86a740455f6de1be7694") format("woff2"),
+url("./flaticon.eot?22a33baf39fd86a740455f6de1be7694#iefix") format("embedded-opentype"),
+url("./flaticon.svg?22a33baf39fd86a740455f6de1be7694#flaticon") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
@@ -185,4 +185,13 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 }
 .flaticon-wifi-router:before {
     content: "\f138";
+}
+.flaticon-vision:before {
+    content: "\f139";
+}
+.flaticon-meeting:before {
+    content: "\f13a";
+}
+.flaticon-radar:before {
+    content: "\f13b";
 }
