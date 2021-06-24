@@ -1,0 +1,249 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?167d6477049fa961b8131bb818448103") format("truetype"),
+url("./flaticon.woff?167d6477049fa961b8131bb818448103") format("woff"),
+url("./flaticon.woff2?167d6477049fa961b8131bb818448103") format("woff2"),
+url("./flaticon.eot?167d6477049fa961b8131bb818448103#iefix") format("embedded-opentype"),
+url("./flaticon.svg?167d6477049fa961b8131bb818448103#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "hotel": "\f101",
+    "school": "\f102",
+    "school-1": "\f103",
+    "school-2": "\f104",
+    "shop": "\f105",
+    "cinema": "\f106",
+    "golf-club": "\f107",
+    "police-station": "\f108",
+    "hospital": "\f109",
+    "hospital-1": "\f10a",
+    "firefighter": "\f10b",
+    "hotel-1": "\f10c",
+    "team": "\f10d",
+    "mountain-view": "\f10e",
+    "safety": "\f10f",
+    "maintenance": "\f110",
+    "cleaning-service": "\f111",
+    "bus": "\f112",
+    "anti-bug": "\f113",
+    "structure": "\f114",
+    "garbage": "\f115",
+    "manager": "\f116",
+    "eco-house": "\f117",
+    "construction-worker": "\f118",
+    "smart-lighting": "\f119",
+    "compliant": "\f11a",
+    "first": "\f11b",
+    "area": "\f11c",
+    "job": "\f11d",
+    "company": "\f11e",
+    "investing": "\f11f",
+    "factory": "\f120",
+    "investment": "\f121",
+    "cctv-camera": "\f122",
+    "park": "\f123",
+    "region": "\f124",
+    "land": "\f125",
+    "home": "\f126",
+    "for-sale": "\f127",
+    "for-sale-1": "\f128",
+    "partner": "\f129",
+    "agent": "\f12a",
+    "development": "\f12b",
+    "destination": "\f12c",
+    "utilities": "\f12d",
+    "water-tap": "\f12e",
+    "pipeline": "\f12f",
+    "gas": "\f130",
+    "conference": "\f131",
+    "meeting-room": "\f132",
+    "coworking": "\f133",
+    "training": "\f134",
+    "tray": "\f135",
+    "coffee": "\f136",
+    "coffee-1": "\f137",
+    "wifi-router": "\f138",
+);
+
+.flaticon-hotel:before {
+    content: map-get($flaticon-map, "hotel");
+}
+.flaticon-school:before {
+    content: map-get($flaticon-map, "school");
+}
+.flaticon-school-1:before {
+    content: map-get($flaticon-map, "school-1");
+}
+.flaticon-school-2:before {
+    content: map-get($flaticon-map, "school-2");
+}
+.flaticon-shop:before {
+    content: map-get($flaticon-map, "shop");
+}
+.flaticon-cinema:before {
+    content: map-get($flaticon-map, "cinema");
+}
+.flaticon-golf-club:before {
+    content: map-get($flaticon-map, "golf-club");
+}
+.flaticon-police-station:before {
+    content: map-get($flaticon-map, "police-station");
+}
+.flaticon-hospital:before {
+    content: map-get($flaticon-map, "hospital");
+}
+.flaticon-hospital-1:before {
+    content: map-get($flaticon-map, "hospital-1");
+}
+.flaticon-firefighter:before {
+    content: map-get($flaticon-map, "firefighter");
+}
+.flaticon-hotel-1:before {
+    content: map-get($flaticon-map, "hotel-1");
+}
+.flaticon-team:before {
+    content: map-get($flaticon-map, "team");
+}
+.flaticon-mountain-view:before {
+    content: map-get($flaticon-map, "mountain-view");
+}
+.flaticon-safety:before {
+    content: map-get($flaticon-map, "safety");
+}
+.flaticon-maintenance:before {
+    content: map-get($flaticon-map, "maintenance");
+}
+.flaticon-cleaning-service:before {
+    content: map-get($flaticon-map, "cleaning-service");
+}
+.flaticon-bus:before {
+    content: map-get($flaticon-map, "bus");
+}
+.flaticon-anti-bug:before {
+    content: map-get($flaticon-map, "anti-bug");
+}
+.flaticon-structure:before {
+    content: map-get($flaticon-map, "structure");
+}
+.flaticon-garbage:before {
+    content: map-get($flaticon-map, "garbage");
+}
+.flaticon-manager:before {
+    content: map-get($flaticon-map, "manager");
+}
+.flaticon-eco-house:before {
+    content: map-get($flaticon-map, "eco-house");
+}
+.flaticon-construction-worker:before {
+    content: map-get($flaticon-map, "construction-worker");
+}
+.flaticon-smart-lighting:before {
+    content: map-get($flaticon-map, "smart-lighting");
+}
+.flaticon-compliant:before {
+    content: map-get($flaticon-map, "compliant");
+}
+.flaticon-first:before {
+    content: map-get($flaticon-map, "first");
+}
+.flaticon-area:before {
+    content: map-get($flaticon-map, "area");
+}
+.flaticon-job:before {
+    content: map-get($flaticon-map, "job");
+}
+.flaticon-company:before {
+    content: map-get($flaticon-map, "company");
+}
+.flaticon-investing:before {
+    content: map-get($flaticon-map, "investing");
+}
+.flaticon-factory:before {
+    content: map-get($flaticon-map, "factory");
+}
+.flaticon-investment:before {
+    content: map-get($flaticon-map, "investment");
+}
+.flaticon-cctv-camera:before {
+    content: map-get($flaticon-map, "cctv-camera");
+}
+.flaticon-park:before {
+    content: map-get($flaticon-map, "park");
+}
+.flaticon-region:before {
+    content: map-get($flaticon-map, "region");
+}
+.flaticon-land:before {
+    content: map-get($flaticon-map, "land");
+}
+.flaticon-home:before {
+    content: map-get($flaticon-map, "home");
+}
+.flaticon-for-sale:before {
+    content: map-get($flaticon-map, "for-sale");
+}
+.flaticon-for-sale-1:before {
+    content: map-get($flaticon-map, "for-sale-1");
+}
+.flaticon-partner:before {
+    content: map-get($flaticon-map, "partner");
+}
+.flaticon-agent:before {
+    content: map-get($flaticon-map, "agent");
+}
+.flaticon-development:before {
+    content: map-get($flaticon-map, "development");
+}
+.flaticon-destination:before {
+    content: map-get($flaticon-map, "destination");
+}
+.flaticon-utilities:before {
+    content: map-get($flaticon-map, "utilities");
+}
+.flaticon-water-tap:before {
+    content: map-get($flaticon-map, "water-tap");
+}
+.flaticon-pipeline:before {
+    content: map-get($flaticon-map, "pipeline");
+}
+.flaticon-gas:before {
+    content: map-get($flaticon-map, "gas");
+}
+.flaticon-conference:before {
+    content: map-get($flaticon-map, "conference");
+}
+.flaticon-meeting-room:before {
+    content: map-get($flaticon-map, "meeting-room");
+}
+.flaticon-coworking:before {
+    content: map-get($flaticon-map, "coworking");
+}
+.flaticon-training:before {
+    content: map-get($flaticon-map, "training");
+}
+.flaticon-tray:before {
+    content: map-get($flaticon-map, "tray");
+}
+.flaticon-coffee:before {
+    content: map-get($flaticon-map, "coffee");
+}
+.flaticon-coffee-1:before {
+    content: map-get($flaticon-map, "coffee-1");
+}
+.flaticon-wifi-router:before {
+    content: map-get($flaticon-map, "wifi-router");
+}

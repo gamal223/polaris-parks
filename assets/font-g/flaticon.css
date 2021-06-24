@@ -1,0 +1,188 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?167d6477049fa961b8131bb818448103") format("truetype"),
+url("./flaticon.woff?167d6477049fa961b8131bb818448103") format("woff"),
+url("./flaticon.woff2?167d6477049fa961b8131bb818448103") format("woff2"),
+url("./flaticon.eot?167d6477049fa961b8131bb818448103#iefix") format("embedded-opentype"),
+url("./flaticon.svg?167d6477049fa961b8131bb818448103#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-hotel:before {
+    content: "\f101";
+}
+.flaticon-school:before {
+    content: "\f102";
+}
+.flaticon-school-1:before {
+    content: "\f103";
+}
+.flaticon-school-2:before {
+    content: "\f104";
+}
+.flaticon-shop:before {
+    content: "\f105";
+}
+.flaticon-cinema:before {
+    content: "\f106";
+}
+.flaticon-golf-club:before {
+    content: "\f107";
+}
+.flaticon-police-station:before {
+    content: "\f108";
+}
+.flaticon-hospital:before {
+    content: "\f109";
+}
+.flaticon-hospital-1:before {
+    content: "\f10a";
+}
+.flaticon-firefighter:before {
+    content: "\f10b";
+}
+.flaticon-hotel-1:before {
+    content: "\f10c";
+}
+.flaticon-team:before {
+    content: "\f10d";
+}
+.flaticon-mountain-view:before {
+    content: "\f10e";
+}
+.flaticon-safety:before {
+    content: "\f10f";
+}
+.flaticon-maintenance:before {
+    content: "\f110";
+}
+.flaticon-cleaning-service:before {
+    content: "\f111";
+}
+.flaticon-bus:before {
+    content: "\f112";
+}
+.flaticon-anti-bug:before {
+    content: "\f113";
+}
+.flaticon-structure:before {
+    content: "\f114";
+}
+.flaticon-garbage:before {
+    content: "\f115";
+}
+.flaticon-manager:before {
+    content: "\f116";
+}
+.flaticon-eco-house:before {
+    content: "\f117";
+}
+.flaticon-construction-worker:before {
+    content: "\f118";
+}
+.flaticon-smart-lighting:before {
+    content: "\f119";
+}
+.flaticon-compliant:before {
+    content: "\f11a";
+}
+.flaticon-first:before {
+    content: "\f11b";
+}
+.flaticon-area:before {
+    content: "\f11c";
+}
+.flaticon-job:before {
+    content: "\f11d";
+}
+.flaticon-company:before {
+    content: "\f11e";
+}
+.flaticon-investing:before {
+    content: "\f11f";
+}
+.flaticon-factory:before {
+    content: "\f120";
+}
+.flaticon-investment:before {
+    content: "\f121";
+}
+.flaticon-cctv-camera:before {
+    content: "\f122";
+}
+.flaticon-park:before {
+    content: "\f123";
+}
+.flaticon-region:before {
+    content: "\f124";
+}
+.flaticon-land:before {
+    content: "\f125";
+}
+.flaticon-home:before {
+    content: "\f126";
+}
+.flaticon-for-sale:before {
+    content: "\f127";
+}
+.flaticon-for-sale-1:before {
+    content: "\f128";
+}
+.flaticon-partner:before {
+    content: "\f129";
+}
+.flaticon-agent:before {
+    content: "\f12a";
+}
+.flaticon-development:before {
+    content: "\f12b";
+}
+.flaticon-destination:before {
+    content: "\f12c";
+}
+.flaticon-utilities:before {
+    content: "\f12d";
+}
+.flaticon-water-tap:before {
+    content: "\f12e";
+}
+.flaticon-pipeline:before {
+    content: "\f12f";
+}
+.flaticon-gas:before {
+    content: "\f130";
+}
+.flaticon-conference:before {
+    content: "\f131";
+}
+.flaticon-meeting-room:before {
+    content: "\f132";
+}
+.flaticon-coworking:before {
+    content: "\f133";
+}
+.flaticon-training:before {
+    content: "\f134";
+}
+.flaticon-tray:before {
+    content: "\f135";
+}
+.flaticon-coffee:before {
+    content: "\f136";
+}
+.flaticon-coffee-1:before {
+    content: "\f137";
+}
+.flaticon-wifi-router:before {
+    content: "\f138";
+}
