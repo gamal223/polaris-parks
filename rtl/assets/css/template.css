@@ -6688,5 +6688,6 @@ width: 50px;height: 50px;font-size: 50px;position: absolute;color: #1B417D;
         }
 
 }
-
+.member-score{padding: 0 !important;}
+.member-score::before{display: none;}
 
