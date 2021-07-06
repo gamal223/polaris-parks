@@ -1961,3 +1961,5 @@ div .egyptLearn{
    h3{font-size: 25px !important;}
    .btn{padding: 0 15px !important;}
 }
+.owl-carousel button.owl-dot.active{background-color: #00f !important;outline: none !important;}
+    .owl-carousel button.owl-dot{background-color: #00f !important;outline: none !important;}
