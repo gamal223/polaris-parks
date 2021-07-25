@@ -374,6 +374,10 @@ Default CSS Start
     .full-row {
         padding: 80px 0;
     }
+    .full-row-2 {
+        padding: 80px 0;
+    }
+    
     
     .tagline,
     .tagline-2 {
@@ -2285,9 +2289,12 @@ Responsive Style Start
         .full-row {
             padding: 20px 0 !important;
         }
+        .full-row-2 {
+            padding: 0px 0 !important;
+        }
         .fs-small{font-size: 30px;}
-       h2{font-size: 28px !important;}
-       h3{font-size: 25px !important;}
+       h2{font-size: 18px !important;}
+       h3{font-size: 18px !important;}
        .btn{padding: 0 15px !important;}
     }
     .owl-carousel button.owl-dot.active{background-color: #00f !important;}

@@ -315,6 +315,8 @@ a.hover-text-extra1:hover {
 .overlay-secondary::before {
     background-color: var(--theme-secondary-opacity-color);
 }
+.overlay-th3::before{background-color: #000000a2;}
+.overlay-th4::before{background-color: #000000bd;}
 
 .help-content,
 .overlay-primary::before {
@@ -6663,3 +6665,49 @@ width: 50px;height: 50px;font-size: 50px;position: absolute;color: #1B417D;
 .box-hover:hover span,.box-hover:hover h6 a ,.box-hover:hover i,.box-hover:hover a,.box-hover:hover p
 
 { color:#fff !important}
+
+.projects .property-block .thumbnail-img img{width: 282px !important;height: 282px !important;border-radius:5px}
+.about-background{background-image:url(../images/ab.jpg) ;background-size: cover;background-position: center;background-blend-mode: overlay;background-color: #020203cb;}
+.img-ab{width: 600px !important;height: 300px !important;}
+
+.for-fas{
+    width: 300px;
+    margin: 0 -55px;
+}
+.less-padding{padding: 100px 0}
+.for-m{margin-top: 80px;}
+.padd-3rem{
+    padding: 3rem!important;
+}
+.ml-50-res{margin-left: 50px !important;}
+.mt-150{margin-top: 150px !important;}
+@media screen and (max-width: 767px){
+    .img-ab{width: 500px !important;height: 200px !important;}
+    .for-fas{
+        width: auto;
+        margin: auto;
+    }
+    .page-banner-image h1, .page-banner-simple h1{
+        font-size: 20px !important;
+    }
+    .banner-title {
+        line-height:30px
+    }
+    .less-padding{padding: 50px 0}
+    .for-btn{margin-left: -35px !important;}
+    .text-m{padding-top: 200px;}
+    .banner-search-1{padding-top: 20px;padding-bottom: 20px;}
+    .wpb_map_wraper iframe{width: auto !important;}
+    .banner-search{padding-top: 20px !important;padding-bottom: 20px !important;}
+    .for-flex{flex: 100%;
+        max-width: 100%;}
+    .for-m{margin-top: 0;}
+    .for-h1{font-size: 30px !important;}
+    .padd-3rem{
+        padding: 0 !important
+    }
+    .ml-50-res{margin-left: 30px !important;width: 250px;}
+    .mt-150{margin-top: 30px !important;}
+    .gallery-one img{width: 80% !important;}
+    .for-col .col{padding: 0 5px !important;width: 90%;}
+}
