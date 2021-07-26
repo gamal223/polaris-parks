@@ -1969,3 +1969,5 @@ div .egyptLearn{
 }
 .owl-carousel button.owl-dot.active{background-color: #00f !important;outline: none !important;}
     .owl-carousel button.owl-dot{background-color: #00f !important;outline: none !important;}
+
+#sayAbout .owl-carousel .owl-dots{margin-top: 10px !important;}

@@ -6796,7 +6796,7 @@ Newsletter Style
   display: none;
 }
 
-.projects .property-block .thumbnail-img img{width: 100% !important;height: 200px !important;border-radius:5px}
+.projects .property-block .thumbnail-img img{width: 100% !important;height: 200px !important;border-radius:0px}
 
 .about-background {
   background-image: url("../../../assets/images/ab.jpg");
